@@ -1,0 +1,11 @@
+text summarizer adalah salah satu cabang terapan NLP, dimana ia akan merepresentasikan sebuah informasi yang panjang 
+menjadi informasi yang lebih singkat dengan tanpa mengurangi informasi yang penting didalamnya. dalam penerapannya 
+text summarizer dapat dilakukan dengan 2 cara yaitu :
+-> abstractive text summarization => ia merupakan teknik peringkasan teks dengan cara memparafrasekan teks sehingga ia 
+                                     akan memiliki banyak vocabulary didalamnya 
+-> extractive text summarization => ia merupakan teknik peringkasan teks dengan cara memilih kalimat mana yang memiliki
+                                    nilai yang paling besar / penting sehingga ia tidak kehilangan informasi yang penting 
+
+singkatnya text summarizer adalah sebuah teknik untuk menghasilkan ringkasan sebuah informasi tanpa mengurangi hal penting
+didalamnya. baik menggunakan cara parafrase maupun pemilihan nilai kalimat yang berbobot sebagai informasi yang penting.
+
